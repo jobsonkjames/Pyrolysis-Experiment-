@@ -30,10 +30,7 @@ The original concept was **methane pyrolysis** — converting biogas-derived met
 - Incubated at CSIR-NIIST and Maker Village (Govt. of India)
 - Presented at Vruthi Conclave
  
-## Prototype
- 
-![Reactor prototype](docs/reactor.jpg)
-*Lab-scale batch reactor with heating system and water-cooled condenser*
+
  
 ## Methodology
  
