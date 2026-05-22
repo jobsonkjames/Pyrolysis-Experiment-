@@ -40,6 +40,46 @@ The original concept was **methane pyrolysis** — converting biogas-derived met
 4. Water-cooled condenser for vapour-to-liquid product recovery
 5. Batch testing with mixed plastic feedstock
 6. Run logging and product fraction observation
+
+## Reactor Fabrication & Experimental Setup
+
+### Lab-Scale Pyrolysis Reactor Assembly
+
+<img src="experiment_setup.jpg" width="700">
+
+The prototype reactor system was designed and fabricated as a compact batch-mode plastic pyrolysis unit. The setup includes the insulated reactor chamber, vapour outlet system, water-cooled condenser, and liquid collection chamber for hydrocarbon recovery. The architecture was developed to validate thermal decomposition behaviour and product recovery using low-cost fabrication methods accessible at small laboratory scale.
+
+---
+
+### Reactor Vessel & Resistive Heating System
+
+<img src="Reactor&heating_coil.jpeg" width="700">
+
+The reactor vessel was fabricated in carbon steel and externally heated using a high-temperature resistive heating coil capable of reaching pyrolysis temperatures above 500°C. Multi-layer insulation using ceramic wool and refractory material reduced external heat loss while maintaining stable internal operating temperatures. The system was operated under oxygen-free conditions using inert gas purging prior to heating.
+
+---
+
+### Experimental Objectives
+
+The experimental runs focused on:
+
+- Validating stable reactor operation at pyrolysis temperatures
+- Observing decomposition behaviour of mixed plastic feedstock
+- Recovering flammable gaseous fractions and condensed liquid products
+- Identifying thermal and mechanical limitations in batch reactor operation
+- Generating practical fabrication and process-engineering experience toward future methane pyrolysis systems
+
+---
+
+### Key Experimental Observations
+
+- Reactor successfully reached the target 400–500°C operating range
+- Flammable gaseous products were consistently generated during decomposition
+- Partial liquid hydrocarbon recovery was achieved through the condenser system
+- Softened plastic accumulation caused clogging near the reactor base during extended runs
+- Results identified feedstock handling and internal flow management as the primary next-stage engineering challenge
+
+The experiments provided a practical foundation in thermal systems fabrication, high-temperature process control, insulation design, vapour handling, and pyrolysis reactor operation.
  
 ## Results & Lessons Learned
  
