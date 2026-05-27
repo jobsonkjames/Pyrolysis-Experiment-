@@ -1,4 +1,4 @@
-# Plastic Pyrolysis Reactor — Neuflow Energy
+# Plastic Pyrolysis Reactor 
 
 ![Status](https://img.shields.io/badge/Status-Prototype%20Built-brightgreen)
 ![Domain](https://img.shields.io/badge/Domain-Waste%20to%20Energy-blue)
